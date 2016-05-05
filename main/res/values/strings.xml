@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SinauMOCO</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="menus">
+        <item>alphabet</item>
+        <item>games</item>
+        <item>dongeng</item>
+    </string-array>
+</resources>
